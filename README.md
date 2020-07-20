@@ -11,16 +11,16 @@
 - ⚡ Fun fact about me, I'm quite stubborn;
 - 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
 
-##Technologies I know and am studying
+##Technologies I know or I'm learning
 <p align="left">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="60" height="60"/>
 </p>
 
 ##Statistics
