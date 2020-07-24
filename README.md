@@ -13,19 +13,20 @@
 
 ##Technologies I know or I'm learning
 <p align="left">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql_original_wordmark.svg" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/android-original-wordmark.svg" alt="android" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/csharp-original.svg" alt="csharp" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
 </p>
 
 ##Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drete457" alt="drete457" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drete457" alt="drete457" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drete457&show_icons=true" alt="drete457" /></p>
 
 ## Let's connect:
