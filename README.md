@@ -11,7 +11,7 @@
 - ⚡ Fun fact about me, I'm quite stubborn;
 - 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
 
-##Technologies I know and I'm learning
+## Technologies I know and I'm learning
 #### Backend
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
@@ -35,7 +35,7 @@
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/firebase-original.svg" alt="firebase" width="60" height="60"/>
 </p>
 
-##Statistics
+## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drete457" alt="drete457" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=drete457&show_icons=true" alt="drete457" /></p>
 
