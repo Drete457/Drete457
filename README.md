@@ -12,7 +12,6 @@
 - 😄 You can download my CV [here](https://github.com/Drete457/Drete457/blob/master/CV%20-%20Filipe%20Mota.pdf "here").
 
 ##Technologies I know and I'm learning
-
 #### Backend
 <p align="left">
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
