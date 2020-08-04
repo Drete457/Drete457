@@ -53,6 +53,6 @@
 | Windows    | 2/3   | 10 years |         |
 | MAC OS     | 1     | 5 years  |         |
 
-- ☜(ﾟヮﾟ☜) - Return Back, Press -[here](https://github.com/Dre457 "here").
+- ☜(ﾟヮﾟ☜) - Return Back, Press [here](https://github.com/Drete457 "here").
 
-⭐️ From [Filipe Mota](https://github.com/Dre457)
+⭐️ From [Filipe Mota](https://github.com/Drete457)
