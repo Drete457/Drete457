@@ -21,28 +21,26 @@
 | Junit      | 1     | 7 months | 5       |
 | Mokito     | 1     | 7 months | 1       |
 | REST API   | 1     | 7 months |         |
-| Tomcat     | 1     | 7 months | 9       |
-
-
+| Tomcat     | 1     | 7 months | 9       | 
+| C          | 2     | 1 year   |         |
+| C++        | 2     | 1 year   |         |
 
 #### Frontend
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| JavaScript | 1     | 6 months | ES5/6   |
+| JavaScript | 2     | 1 year   | ES5/6   |
 | HTML       | 1     | 6 months | 5       |
 | CSS        | 1     | 6 months | 3       |
-| Reactjs    | 1     | 4 months | 16.8    |
+| Reactjs    | 2     | 1 year   | 17      |
 | JQuery     | 1     | 4 months |         |
-
 
 #### Database
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
 | MYSQL      | 1     | 6 months | 8.0.2   |
-| Firebase   | 1     | learning |         |
-
+| Firebase   | 2     | 6 months | 8       |
 
 #### Other
 
@@ -50,11 +48,11 @@
 |------------|-------|----------|---------|
 | VIM        | 1     | 7 months |         |
 | IntelliJ   | 1     | 7 months |2019     |
-| VSCode     | 1     | 5 months |2020     |
+| VSCode     | 2     | 1 year   |2021     |
 | Android Stu| 1     | 7 months |2019     |
 | Git&GitLab | 1     | 7 months |         |
 | Windows    | 2/3   | 10 years |10       |
-| MAC OS     | 1     | 5 years  |10.14    |
+| MAC OS     | 2     | 5 years  |10.15    |
 
 - ☜(ﾟヮﾟ☜) - Return Back, Press [here](https://github.com/Drete457 "here").
 
