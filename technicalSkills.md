@@ -51,6 +51,7 @@
 | VSCode     | 2     | 1 year   |2021     |
 | Android Stu| 1     | 7 months |2019     |
 | Git&GitLab | 1     | 7 months |         |
+| Visual Stu | 2     | 1 year   |2019     |
 | Windows    | 2/3   | 10 years |10       |
 | MAC OS     | 2     | 5 years  |10.15    |
 
