@@ -12,16 +12,16 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| Java       | 1     | 7 months | 8+      |
-| Spring     | 1     | 7 months | 5.2.4   |
-| Spring MVC | 1     | 7 months | 5.2.4   |
-| Hibernate  | 1     | 7 months | 5.2     |
-| Thymeleaf  | 1     | 7 months | 3       |
-| Maven      | 1     | 7 months | 3       |
-| Junit      | 1     | 7 months | 5       |
-| Mokito     | 1     | 7 months | 1       |
-| REST API   | 1     | 7 months |         |
-| Tomcat     | 1     | 7 months | 9       | 
+| Java       | 2     | 1 year   | 8+      |
+| Spring     | 2     | 1 year   | 5.2.4   |
+| Spring MVC | 2     | 1 year   | 5.2.4   |
+| Hibernate  | 2     | 1 year   | 5.2     |
+| Thymeleaf  | 1     | 1 year   | 3       |
+| Maven      | 2     | 1 year   | 3       |
+| Junit      | 1     | 1 year   | 5       |
+| Mokito     | 1     | 1 year   | 1       |
+| REST API   | 2     | 1 year   |         |
+| Tomcat     | 1     | 1 year   | 9       | 
 | C          | 2     | 1 year   |         |
 | C++        | 2     | 1 year   |         |
 
@@ -29,9 +29,9 @@
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| JavaScript | 2     | 1 year   | ES5/6   |
-| HTML       | 1     | 6 months | 5       |
-| CSS        | 1     | 6 months | 3       |
+| JavaScript | 2     | 2 year   | ES5/6   |
+| HTML       | 2     | 2 year   | 5       |
+| CSS        | 2     | 2 year   | 3       |
 | Reactjs    | 2     | 1 year   | 17      |
 | JQuery     | 1     | 4 months |         |
 
