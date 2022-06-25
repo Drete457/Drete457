@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">  Technology Stack Details ⚒</h1>
+  <h1 align="center"> Technology Stack Details ⚒</h1>
 </p>
 
 ## 📚 My Tech Stack 
@@ -24,16 +24,18 @@
 | Tomcat     | 1     | 1 year   | 9       | 
 | C          | 2     | 1 year   |         |
 | C++        | 2     | 1 year   |         |
+| Nodejs     | 3     | 2 year   | 16      |
 
 #### Frontend
 
 | Technology | Level | Time     | Version |
 |------------|-------|----------|---------|
-| JavaScript | 2     | 2 year   | ES5/6   |
-| HTML       | 2     | 2 year   | 5       |
-| CSS        | 2     | 2 year   | 3       |
-| Reactjs    | 2     | 1 year   | 17      |
-| JQuery     | 1     | 4 months |         |
+| JavaScript | 3     | 3 year   | ES5/6   |
+| HTML       | 3     | 3 year   | 5       |
+| CSS        | 3     | 3 year   | 3       |
+| Reactjs    | 3     | 2 year   | 18      |
+| JQuery     | 2     | 4 months |         |
+| ViteJs     | 2     | 4 months | 2.9     |
 
 #### Database
 
@@ -48,12 +50,12 @@
 |------------|-------|----------|---------|
 | VIM        | 1     | 7 months |         |
 | IntelliJ   | 1     | 7 months |2019     |
-| VSCode     | 2     | 1 year   |2021     |
+| VSCode     | 2     | 1 year   |2022     |
 | Android Stu| 1     | 7 months |2019     |
 | Git&GitLab | 1     | 7 months |         |
-| Visual Stu | 2     | 1 year   |2019     |
-| Windows    | 2/3   | 10 years |10       |
-| MAC OS     | 2     | 5 years  |10.15    |
+| Visual Stu | 2     | 1 year   |2022     |
+| Windows    | 2/3   | 10 years |11       |
+| MAC OS     | 2     | 5 years  |10.16    |
 
 - ☜(ﾟヮﾟ☜) - Return Back, Press [here](https://github.com/Drete457 "here").
 
