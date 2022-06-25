@@ -42,6 +42,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Drete457" height="150" alt="languages graph"  />
 </div>
 
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/Drete457/Drete457/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Drete457)](https://github.com/Drete457)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/filipeantoniomota/)
