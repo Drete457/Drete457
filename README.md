@@ -35,13 +35,6 @@
 <img src="https://github.com/Drete457/Drete457/blob/master/icons/firebase-original.svg" alt="firebase" width="60" height="60"/>
 </p>
 
-## Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drete457" alt="drete457" /></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Drete457" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Drete457" height="150" alt="languages graph"  />
-</div>
-
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Drete457)](https://github.com/Drete457)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/filipeantoniomota/)
