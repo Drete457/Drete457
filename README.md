@@ -37,9 +37,6 @@
 
 ## Statistics
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drete457" alt="drete457" /></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Drete457" height="150" alt="languages graph"  />
-</div>
 
 ## Let's connect:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Drete457)](https://github.com/Drete457)
