@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a consultant;
 - 🌱 I’m currently learning AI 🤪;
 - ⚡ Doing projects in JavaScript and Reactjs;
-- 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:nada.geral@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/filipeantoniomota/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351965843980)
+- 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nada.geral@gmail.com)](mailto:nada.geral@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeantoniomota/)](https://www.linkedin.com/in/filipeantoniomota/)
 - ⚡ Fun fact about me, I'm quite stubborn;
 - 😄 You can download my CV [here](https://europa.eu/europass/eportfolio/screen/share/2510f681-3f1b-475d-a98a-503b9d1e142b?lang=en "here").
 - 😱 You can see my skills [here](https://github.com/Drete457/Drete457/blob/master/technicalSkills.md "here").
